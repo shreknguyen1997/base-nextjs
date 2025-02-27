@@ -1,0 +1,307 @@
+{
+  "home-page": {
+    "home": "Home",
+    "about": "About",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "email": "Email",
+
+    "hero": {
+      "welcome": "Welcome to Aralingual",
+      "title": "YOUR GATEWAY TO \nLOCAL GAMING",
+      "description": "Unlock the full potential of your video game with professional translation and localization services.",
+      "btnLeft": "How it work",
+      "btnRight": "Get in Touch",
+      "learn-more": "Learn more"
+    },
+
+    "reasons": {
+      "title": "Why localize and <span>translate</span> your video game?",
+      "description": "Localization is the key to unlocking a global audience for your video game. By adapting your game to different languages and cultures, you can create an immersive experience that resonates with players on a deeper level. Here's why you need to localize and translate your video game:",
+      "reason1": {
+        "title": "Reach a wider \naudience",
+        "description": "By localizing your game, you can tap into new markets and expand your player base exponentially."
+      },
+      "reason2": {
+        "title": "Increase player \nengagement",
+        "description": "When players can understand and connect with the game in their native language, it enhances their overall gaming experience and keeps them coming back for more."
+      },
+      "reason3": {
+        "title": "Boost revenue",
+        "description": "Localizing your game increases its market potential, opening up opportunities for greater monetization and increasing revenue streams."
+      }
+    },
+
+    "reasons-choose": {
+      "title": "Why choose <span>Aralingual</span> \nto translate and localize your video game",
+      "reason1": {
+        "order": "A",
+        "title": "Specialized expertise",
+        "description": "Our team comprises experienced linguists who are also passionate gamers. We understand the nuances of gaming culture and strive to deliver translations that capture the essence of your game while ensuring cultural relevance."
+      },
+      "reason2": {
+        "order": "B",
+        "title": "Unparalleled quality",
+        "description": "We take pride in our commitment to excellence. Our rigorous quality assurance processes ensure accurate translations, meticulous attention to detail, and adherence to your game's tone and style."
+      },
+      "reason3": {
+        "order": "C",
+        "title": "Timely delivery",
+        "description": "We understand the importance of meeting deadlines in the gaming industry. With our efficient project management and dedicated team, we ensure your localized game is ready to conquer new markets on time."
+      },
+      "reason4": {
+        "order": "D",
+        "title": "Cost-effective solutions",
+        "description": "We offer competitive pricing without compromising on quality. Our tailored localization packages cater to your specific needs, ensuring you receive exceptional value for your investment."
+      }
+    },
+
+    "services": {
+      "title": "Our <span>services</span>",
+      "description": "Localization is the key to unlocking a global audience for your video game. By adapting your game to different languages and cultures, you can create an immersive experience that resonates with players on a deeper level.",
+      "service1": {
+        "title": "In game texts",
+        "description": "We translate and adapt all in-game texts, including dialogues, menus, subtitles, achievements, and more."
+      },
+      "service2": {
+        "title": "User interface",
+        "description": "We localize the user interface to ensure seamless navigation and an intuitive gaming experience for players worldwide."
+      },
+      "service3": {
+        "title": "User guide",
+        "description": "We translate and adapt user guides and manuals, enabling players to understand game mechanics, controls, & objectives in their preferred language."
+      },
+      "service4": {
+        "title": "Marketing materials",
+        "description": "We provide localization services for marketing materials such as trailers, promotional websites, press releases, and social media content, ensuring your game's message resonates with international audiences."
+      },
+      "service5": {
+        "title": "Legal documents",
+        "description": "Our team ensures compliance with legal and regulatory requirements by translating end-user license agreements, terms of service, privacy policies, and other legal documents."
+      },
+      "service6": {
+        "title": "Website localization",
+        "description": "We adapt your game's website, making it accessible and engaging for players from different linguistic backgrounds."
+      }
+    },
+
+    "processes": {
+      "title": "Video Game <span>Localization</span> Process",
+      "description": "Aralingual follows a meticulous localization process to deliver a polished and seamless gaming experience.",
+      "process1": {
+        "order": "A",
+        "title": "Translation",
+        "description": "Our skilled translators adapt the game's content into the target language while maintaining its essence and context."
+      },
+      "process2": {
+        "order": "B",
+        "title": "Editing",
+        "description": "We ensure the translated content is accurate, culturally appropriate, and aligned with the game's style and tone."
+      },
+      "process3": {
+        "order": "C",
+        "title": "Proofreading",
+        "description": "Our language experts conduct a thorough review to eliminate any linguistic errors, ensuring the highest quality standards."
+      },
+      "process4": {
+        "order": "D",
+        "title": "Language Quality Control",
+        "description": "We conduct stringent checks to verify that the localized content is linguistically and culturally suitable for the target audience."
+      },
+      "process5": {
+        "order": "E",
+        "title": "Integration",
+        "description": "Our team ensures that the translated content seamlessly integrates into the game, including menus, UI elements, and other in-game components."
+      },
+      "process6": {
+        "order": "F",
+        "title": "Video Game Testing",
+        "description": "We rigorously test the localized game to identify any issues related to language, functionality, or user experience."
+      },
+      "process7": {
+        "order": "G",
+        "title": "Editing and Proofreading Again",
+        "description": "Based on the testing results, we refine and polish the localized content to ensure optimal performance."
+      },
+      "process8": {
+        "order": "H",
+        "title": "Delivery",
+        "description": "We provide you with the final, fully localized game ready to captivate players worldwide."
+      }
+    },
+    "contact-us": {
+      "title": "Get in <span>Touch</span>",
+      "description": "Ready to expand your game's reach and conquer new markets? Contact Aralingual today for a personalized consultation and take your game to the next level of international success. Our team is here to answer any questions you may have and provide you with a tailored localization solution.",
+      "btn": "Get in touch now!"
+    }
+  },
+
+  "about-us-page": {
+    "title": "About us",
+    "hero": {
+      "title": "Pioneering Arabic Game Localization",
+      "description": "for Unparalleled Gaming Experiences!"
+    },
+    "content-first": {
+      "title": "About <span>Aralingual</span>",
+      "description": "At Aralingual, our journey began with a mission to revolutionize the gaming landscape for Arab gamers. We recognized the immense potential of the Arabic-speaking market and understood the frustrations they faced due to the absence of localized Arabic games. This not only resulted in a subpar gaming experience but also led to piracy and the creation of temporary Arabic versions, ultimately causing a significant loss of players, reputation, and revenue."
+    },
+    "paragraph1": "Driven by our passion for gaming and the desire to bridge this gap, we embarked on a quest to bring the same level of gaming excellence enjoyed by players worldwide to Arabic-speaking countries. We realized the true significance of this market, particularly in the realm of mobile games, where the potential for success is staggering. In fact, Saudi Arabia boasts <span> the highest average revenue per mobile paying user</span> (ARPPU) rate, with an astounding $270 per person, surpassing even the figures in China by 88%.",
+    "paragraph3": "With an unwavering dedication to merging passion and practicality,our goal is to provide the Arab world and the global gaming community with an extraordinary gaming experience.By doing so,we open the doors to billions of dollars in revenue for gaming companies that have yet to tap into this thriving, rapidly expanding, and youth - oriented market. What sets us apart at Aralingual is our commitment to empowering video game companies to unlock the full potential of the Arabic - speaking market.We offer comprehensive localization services tailored specifically to the unique needs and preferences of Arab gamers and gamers worldwide.Through meticulous translation and adaptation, we ensure that your game resonates deeply with Arabic - speaking players, immersing them in captivating narratives, intuitive interfaces, and culturally relevant gaming experiences.",
+    "paragraph4": "Our team of expert linguists, gaming enthusiasts, and industry professionals combine their knowledge and expertise to deliver outstanding results. We understand the intricacies of gaming culture and employ our linguistic prowess to convey the essence and emotion of your game accurately. By meticulously adapting your game's content, including dialogues, menus, subtitles, and more, we create an environment where Arab gamers feel truly understood and engaged.\n\n Partnering with Aralingual means gaining a trusted ally who shares your vision for global success. We are committed to delivering exceptional quality and meeting your specific project requirements, all while adhering to your game's unique style, tone, and gameplay mechanics. Our rigorous quality assurance processes guarantee flawless translations, ensuring that every element of your game is culturally sensitive, immersive, and ready to captivate Arabic-speaking players.",
+    "paragraph5": "Embrace the limitless possibilities of the Arabic-speaking market by collaborating with Aralingual. We are here to guide you through the intricacies of game localization and open the doors to unrivaled growth and success. Together, let's revolutionize the gaming industry, captivate a new audience, and unleash the untapped potential of the Arab world."
+  },
+
+  "faq-page": {
+    "note": "Need Help !",
+    "title": "We're Here To Answer All Your Questions",
+    "description": "Unlock the full potential of your video game with professional translation and localization services",
+    "head-content": {
+      "title": "Frequently Asked <span>Questions</span>",
+      "description": "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator."
+    },
+    "item1": {
+      "question": "What languages do we translate from and to?",
+      "answer": "At Aralingual, we offer translation services for a wide range of languages. While our specialization lies in Arabic game localization, we also translate from and to several other languages, including but not limited to:\n- English\n- Spanish\n- French\n- German\n- Italian\n- Portuguese\n- Russian\n- Chinese (Simplified and Traditional)\n- Japanese\n- Korean\n\nIf you have specific language requirements, feel free to reach out to us, and we'll be more than happy to accommodate your needs."
+    },
+    "item2": {
+      "question": "How long does it take to finish translating a video game?",
+      "answer": "The duration of the translation process depends on various factors, such as the size and complexity of the game, the amount of text to be translated, and the specific requirements of the project. We understand the fast-paced nature of the gaming industry and strive to meet your deadlines.\n\nTo provide you with an accurate timeframe, we evaluate each project individually. Once we have a clear understanding of your game and project scope, we can provide you with an estimated timeline for completion."
+    },
+    "item3": {
+      "question": "What is the best way to communicate?",
+      "answer": "We believe in clear and effective communication to ensure a smooth collaboration. You can reach out to us through various channels, including:\n- Email: go-global@aralingual.com\n- Contact form: Fill out the form on our website's “Contact Us” page\n\nOur team is prompt in responding to your inquiries, addressing any concerns, and providing updates on your project's progress. We are also open to arranging video or voice calls if necessary."
+    },
+    "item4": {
+      "question": "What are you supposed to provide to start the translation process?",
+      "answer": "To initiate the translation process, we recommend providing us with the following materials:\n- Game assets: Share the game files, including text strings, dialogues, menus, and any other in-game text that requires translation.\n- Reference materials: If you have any style guides, glossaries, or specific instructions for the translation, please provide them to ensure consistency and accuracy.\n- Contextual information: Help us understand the context and tone of your game by providing background information, character descriptionriptions, and any other relevant details.\n\nThe more information and materials you provide, the better we can tailor the localization process to suit your game's unique requirements."
+    },
+    "item5": {
+      "question": "Are there special requirements in the Arabic language?",
+      "answer": "Arabic is a unique and intricate language, and its localization requires careful attention to cultural nuances and regional dialects. Our team of Arabic language experts is well-versed in these requirements and ensures that the translation captures the essence of the language while catering to the target audience.\n\nTo ensure a successful Arabic game localization, we may require additional information, such as specific preferences for dialects (e.g., Modern Standard Arabic, Gulf Arabic, Levantine Arabic) or any cultural considerations you would like us to take into account. Our goal is to deliver a localized game that resonates authentically with Arabic-speaking players."
+    },
+    "item6": {
+      "question": "How many revisions do we provide?",
+      "answer": "We strive for excellence in every aspect of our work, and revisions are an essential part of the quality assurance process. We typically provide one round of revisions after the initial translation and adaptation to address any feedback or adjustments you may have.\n\nWe value your satisfaction and aim to deliver a final product that meets your expectations. If additional revisions are required, we can discuss the specific needs of your project and provide a tailored solution to ensure your complete satisfaction.\n\nFeel free to communicate your revision requests, and our dedicated team will work closely with you to refine and polish the localized game until it surpasses your expectations."
+    },
+    "item7": {
+      "question": "Do you have experience in translating and localizing specific game genres?",
+      "answer": "Yes, we have experience in translating and localizing a wide range of game genres, including but not limited to:\n- Action/Adventure\n- RPG (Role-Playing Games)\n- FPS (First-Person Shooter)\n- Strategy\n- Simulation\n- Puzzle\n- Sports\n- MMO (Massively Multiplayer Online)\n- Casual Games\n- Mobile Games\nOur team of linguists and gaming enthusiasts is well-versed in the nuances and requirements of different game genres. We adapt our translation approach to ensure that the localized version of your game retains its core elements and resonates with players in the target language."
+    },
+    "item8": {
+      "question": "Is localization limited to the text within the game, or can you assist with voice-overs and audio localization?",
+      "answer": "At Aralingual, we provide comprehensive localization services that extend beyond text translation. We can assist you with voice-over services, audio localization, and subtitle creation. Whether it's translating dialogues for voice actors or ensuring accurate subtitles for cutscenes, we offer end-to-end localization solutions to create a seamless and immersive gaming experience."
+    },
+    "item9": {
+      "question": "Can you help with ongoing updates and post-release content?",
+      "answer": "Absolutely! We understand that games evolve over time with updates, expansions, and post-release content. Our team is ready to support you with ongoing localization needs. Whether it's translating new dialogues, updating in-game texts, or localizing additional content, we are committed to maintaining consistency and quality throughout the lifecycle of your game."
+    },
+    "item10": {
+      "question": "What measures do you take to ensure confidentiality and data security?",
+      "answer": "We prioritize the confidentiality and security of our clients' information. At Aralingual, we adhere to strict data protection protocols. Our team members sign non-disclosure agreements (NDAs) to ensure the confidentiality of your game's content. We also implement secure file transfer systems and utilize industry-standard encryption methods to safeguard your data throughout the localization process."
+    },
+    "item11": {
+      "question": "Can you help with marketing and promotional materials for the localized game?",
+      "answer": "Yes, we offer localization services for marketing and promotional materials as well. Our expertise extends to translating and adapting trailers, websites, social media content, press releases, and other marketing collateral. We ensure that your game's message resonates effectively with the target audience, creating a cohesive and impactful marketing campaign for the localized version of your game."
+    }
+  },
+
+  "blog-page": {
+    "title": " Our Blogs",
+    "hero": {
+      "title": "Exploring the world's largest games news",
+      "description": "  Unlock the full potential of your video game with\nprofessional translation and localization services."
+    },
+    "head-content": {
+      "title": "Our Latest <span>Blog</span>",
+      "description": "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator."
+    },
+    "btn-read-more": "Read more",
+    "category": "Category",
+    "pub-date": "Publication Date",
+    "author": "Author",
+    "contact": {
+      "title": "Got any more <span>Questions</span> ?",
+      "description": "We are constantly updating our FAQ section to address the concerns and inquiries of our clients. If you have any specific questions or requirements, please don't hesitate to reach out to us. Our dedicated team is here to provide you with the information and assistance you need for a successful game localization journey.",
+      "btn": "Get in Touch now"
+    }
+  },
+
+  "blog-details-page": {
+    "back-to-blog": "Back to Blogs",
+    "table-title": "Table of Contents",
+    "our-latest-blog": "Our Latest Blog",
+    "next-blog": "Next Blog",
+    "previous-blog": "Previous Blog",
+    "text-share": "Share This Post"
+  },
+
+  "contact-page": {
+    "title": "Contact us",
+    "hero": {
+      "title": "Get in Touch with \nAralingual",
+      "description": "Unlock the full potential of your video game with professional translation and localization services."
+    },
+    "office": {
+      "title": "our office",
+      "address": {
+        "title": "Address",
+        "description": "Saudi Arabia, Riyadh, Imam Abdullah Ibn Saud Ibn Abdulaziz Rd 13241",
+        "btn": "Get Directions"
+      },
+      "email": {
+        "title": "Email & Phone Number"
+      },
+      "working-hour": {
+        "title": "Working hours",
+        "item1": "Monday – Friday: 8:30am – 5:00pm",
+        "item2": "Saturday: 8:30am – 2:00pm"
+      }
+    },
+    "form": {
+      "title": "Get in Touch with <span>Aralingual</span>",
+      "name-input": {
+        "title": "First Name",
+        "placeholder": "Enter First Name"
+      },
+      "last-name-input": {
+        "title": "Last Name",
+        "placeholder": "Enter Last Name"
+      },
+
+      "email-input": {
+        "title": "Email",
+        "placeholder": "Enter your Email"
+      },
+      "phone-input": {
+        "title": "Phone Number",
+        "placeholder": "Enter your phone number"
+      },
+      "company-input": {
+        "title": "Company",
+        "placeholder": "Your company"
+      },
+      "message-input": {
+        "title": "Message",
+        "placeholder": "Enter your Message"
+      },
+      "button-text": "Send Now",
+      "privacy-policy": "I agree with Terms of Use and Privacy Policy"
+    },
+    "notification-success": {
+      "title": "Success!",
+      "content": "Your contact form has been sent successfully."
+    }
+  },
+  "404-page": {
+    "description": "Sorry , we couldn’t find this page , but don’t worry , you can find plenty of other things on our website",
+    "button-text": "Back To Homepage"
+  },
+
+  "contact-us-component": {
+    "title": "Contact us",
+    "description": "Ready to expand your game's reach and conquer new markets? Contact Aralingual today for a personalized consultation and take your game to the next level of international success. Our team is here to answer any questions you may have and provide you with a tailored localization solution.",
+    "button-text": "Get in touch now !"
+  }
+}
